@@ -1,2 +1,2 @@
-# CS_437_LUMS
-Assignment Solutions for CS_437 at LUMS
+# CS_437_LUMS Deep Learning
+Assignment Solutions for CS_437 Deep Learning taught at LUMS in Spring '20
